@@ -1,7 +1,7 @@
 
 练习三如下的代码根据样例二改变而来：
 
-```
+```python
 from __future__ import print_function, division
 
 
