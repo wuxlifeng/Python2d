@@ -74,4 +74,9 @@ print               ('+----------------+----------------+-----------------+')
 |                |                |                 |
 +----------------+----------------+-----------------+
 ```
-
+疑问：
+* 打印换行, [参见第四章](https://github.com/wuxlifeng/ThinkPython-en-cn/blob/master/ThinkPython-04.md#42--simple-repetition-简单的重复)
+```python
+for i in range(4):     
+    print('Hello!') 
+```
