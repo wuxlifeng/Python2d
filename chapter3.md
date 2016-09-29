@@ -1,5 +1,17 @@
 
-练习三如下的代码根据样例二改变而来：
+## 练习三
+
+换行如此：`print('+ \n -')`，而非例三提示：`print('+', '-') `
+
+接行如此可以：
+```python
+print('+', end=' ')
+print('-') 
+```
+
+
+
+如下的代码根据样例二改变而来：
 
 ```python
 from __future__ import print_function, division
