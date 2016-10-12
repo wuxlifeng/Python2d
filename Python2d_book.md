@@ -31,6 +31,8 @@ def sumall(*t):
 Note:
 * `python` after `'''` is needed, then keep it 完整：`'''python`
 * documentation functoion [sum](https://docs.python.org/3/library/functions.html?highlight=sum#sum) 
-
+  * math.fsum()
+  * itertools.chain()
+    * yield
 
 
