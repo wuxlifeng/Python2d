@@ -35,4 +35,5 @@ Note:
   * itertools.chain()
     * yield
 
-
+[12.6](https://github.com/wuxlifeng/ThinkPython-en-cn/blob/master/ThinkPython-12.md#126--dictionaries-and-tuples-词典与元组)
+* ??
