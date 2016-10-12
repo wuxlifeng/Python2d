@@ -37,3 +37,6 @@ Note:
 
 [12.6](https://github.com/wuxlifeng/ThinkPython-en-cn/blob/master/ThinkPython-12.md#126--dictionaries-and-tuples-词典与元组)
 * ??
+
+[13.7 前联系 6](https://github.com/wuxlifeng/ThinkPython-en-cn/blob/master/ThinkPython-13.md#exercise-6-练习6)
+* 2016-10-12 19:10:58
