@@ -1,3 +1,8 @@
+# [ThinkPython-en-cn](https://github.com/wuxlifeng/ThinkPython-en-cn) 读书笔记
+
+
+
+
 
 [12.4](https://github.com/wuxlifeng/ThinkPython-en-cn/blob/master/ThinkPython-12.md#124--variable-length-argument-tuples-参数长度可变的元组) Variable-length argument tuples
 
@@ -24,10 +29,8 @@ def sumall(*t):
 ````
 
 Note:
-
-```
-`python` after ``` is needed, then keep it 完整：```python`
-```
+* `python` after `'''` is needed, then keep it 完整：`'''python`
+* documentation functoion [sum](https://docs.python.org/3/library/functions.html?highlight=sum#sum) 
 
 
 
